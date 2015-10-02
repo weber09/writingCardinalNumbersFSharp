@@ -1,0 +1,8 @@
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\bin\Debug\FSharpTests.exe.config
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\bin\Debug\FSharpTests.XML
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\bin\Debug\FSharpTests.exe
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\bin\Debug\FSharpTests.pdb
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\bin\Debug\FSharp.Core.dll
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\bin\Debug\FSharp.Core.xml
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\obj\Debug\FSharpTests.exe
+c:\users\gabriel.weber\documents\visual studio 2013\Projects\FSharpTests\FSharpTests\obj\Debug\FSharpTests.pdb
