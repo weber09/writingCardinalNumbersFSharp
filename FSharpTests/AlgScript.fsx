@@ -53,10 +53,4 @@
     |> writeHundredsNr
     |> writeDecimalsNr
     |> writeUnitary
-
-printf "Digite um número: \n"
-let number = int32(System.Console.ReadLine())
-
-printf "\n%s\n" (writeNumbers number)
-
         
